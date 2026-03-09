@@ -1,0 +1,6 @@
+numpy
+tiffile
+cv2
+matplotlib
+scipy
+plotly
